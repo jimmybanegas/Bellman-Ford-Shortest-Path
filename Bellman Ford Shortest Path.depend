@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1490028274 source:c:\users\jimmy ramos\documents\algoritmos\bellman-ford-shortest-path\main.cpp
+	"Test.h"
+	"Edge.h"
+	<iostream>
+	<limits>
+
+1489864054 c:\users\jimmy ramos\documents\algoritmos\bellman-ford-shortest-path\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1489864054 source:c:\users\jimmy ramos\documents\algoritmos\bellman-ford-shortest-path\test.cpp
+	"Test.h"
+
+1488935756 source:c:\users\jimmy ramos\documents\algoritmos\bellman-ford-shortest-path\edge.cpp
+	"Edge.h"
+
+1488935756 c:\users\jimmy ramos\documents\algoritmos\bellman-ford-shortest-path\edge.h
+
